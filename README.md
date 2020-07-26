@@ -1,6 +1,6 @@
 # MACHINE_LEARNING_RECOMMENDATION_SYSTEM_PHP
 
-This recommendation engine code that suppose to:
+This recommendation engine code that works to:
 
 Developing a form through which insert users in the database.
 
